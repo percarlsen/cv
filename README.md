@@ -35,16 +35,14 @@ Working on research projects for Telenor's business units in the Nordics and Asi
 
 One-year trainee position working in three Telenor units; Norway IT, Myanmar Technology, and Group Research.
 
-
 - Responsible for analyzing mobility data during the first months of Covid-19 and delivering reports to the Health Authorities (FHI), some of which were reported to the Minister of Health and Care Services at the time, Bent Høie.
 - Developing big data network analytics tool for Telenor’s radio engineers.
 - Project manager through the first phase of a cloud modernization project.
 - **Technologies**: SAS, Hadoop, SQL, Python.
 <br><br>
 
-**Teaching Assistant** at the University of Oslo<br>
+**Teaching Assistant** at the University of Oslo, _August 2017 - December 2017_<br>
 
-_August 2017 - December 2017_
 Held weekly classroom sessions and corrected assignments for a group of around 50 students in the course _Biologically Inspired Computing_. The main topics of the course were classification, search, and optimization.
 - **Technologies**: Python, Linux
 <br><br>

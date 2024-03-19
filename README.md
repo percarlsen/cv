@@ -10,11 +10,10 @@ _Software engineer living in Oslo_<br>
 
 **Software Engineer** at Oda, _September 2021 - Ongoing_<br>
 
-Full stack engineer in a product team creating software for the fulfillment centers. Taking part in every phase of the development from the prioritization phase to designing, developing, releasing and maintaining our product.
+Full stack engineer in a product team developing software for Oda's fulfillment centers. Taking part in every phase of the development from the prioritization phase to designing, developing, testing, releasing and maintaining our product.
 
 - Responsibility of the planning, development and execution of importing existing inventory stock of three fulfillment centers when merging with Swedish company _Mathem_ in March 2024.
-database models with its business logic and user-interfaces.
-- Key role in a complete re-build of the core inventory database models and business logic.
+- Key role in a complete re-build of the core inventory database models and business logic, including migrating clients while keeping both systems in sync.
 - **Technologies**: Python, Django, PostgreSQL, Docker, TypeScript, React, GraphQL, Git.
 <br><br>
 
@@ -24,7 +23,7 @@ database models with its business logic and user-interfaces.
 Working on research projects for Telenor's business units in the Nordics and Asia, with main focus on Green Radio - a collection of research projects aiming at reducing Telenor's CO2 footprint.
 
 - End-to-end responsibility for analyzing data, developing, and delivering Green Radio for Telenor Myanmar, and assisting with the same initiative in Telenor Pakistan and Grameenphone.
-- Developed a front-end demo application for Telenor's state-of-the-art Norwegian Speech-to-text model.
+- Developed a front-end demo application for Telenor's state-of-the-art Norwegian speech-to-text model.
 - Mentor at an AI hackathon at the University of Aberdeen.
 - Took part in organizing social events for all young professionals.
 - **Technologies**: Python, Docker, Git, PostgreSQL, Vue.js, JavaScript, BigQuery.
@@ -41,11 +40,13 @@ One-year trainee position working in three Telenor units; Norway IT, Myanmar Tec
 - **Technologies**: SAS, Hadoop, SQL, Python.
 <br><br>
 
+
 **Teaching Assistant** at the University of Oslo, _August 2017 - December 2017_<br>
 
 Held weekly classroom sessions and corrected assignments for a group of around 50 students in the course _Biologically Inspired Computing_. The main topics of the course were classification, search, and optimization.
 - **Technologies**: Python, Linux
 <br><br>
+
 
 **Bike Courier** at Foodora, _August 2016 - June 2018_<br>
 
@@ -57,10 +58,10 @@ Active and rewarding job as a bicycle courier in the streets of Oslo.
 
 
 **MSc in Nanoelectronics and Robotics** at the University of Oslo / UC San Diego, _August 2017 - June 2019_<br>
+
 Specialization in machine learning and deep learning for image analysis, in addition to studying natural language processing and search engine technologies.
 
 - Thesis (grade: A): Real-Time Person Re-Identification for Mobile Robots to Improve Human-Robot Interaction ([link](https://www.duo.uio.no/handle/10852/69080)).
-- One year exchange stay at the Healthcare Robotics Lab at the University of California, San Diego campus.
 - **Technologies**: Python, TensorFlow, TensorBoard, Git, Lisp, ROS, LaTeX.
 <br><br>
 
@@ -68,7 +69,6 @@ Specialization in machine learning and deep learning for image analysis, in addi
 **BSc in Nanoelectronics and Robotics** at the University of Oslo / Griffith University, _August 2014 – June 2017_<br>
 
 - Courses within a broad range of topics within mathematics, electronics, robotics and programming.
-- Six month exchange stay at Griffith University, Queensland, Australia.
 - **Technologies**: Java, Python, C, Assembler, VHDL, ROS, HTML, CSS, PHP, MATLAB, Linux, Unity, C++.
 <br><br>
 
@@ -79,7 +79,7 @@ Specialization in machine learning and deep learning for image analysis, in addi
 
 Running a clothing brand as a part-time project along with three friends.
 - Responsibility for developing and maintaining the website and implementing an integration between our IMS and the accounting system Tripletex.
-- Social media content creation on [Instagram](https://www.instagram.com/smeig) and [Facebook](https://www.facebook.com/smeig.co), and for creating and managing digital marketing campaigns.
+- Social media content creation for [Instagram](https://www.instagram.com/smeig) and [Facebook](https://www.facebook.com/smeig.co), and for creating and managing digital marketing campaigns.
 - Took part in the daily operations, economics, logistics, and the clothing design process.
 - **Technologies**: Shopify, Liquid, HTML, CSS, JavaScript.
 <br><br>

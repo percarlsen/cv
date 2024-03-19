@@ -6,11 +6,19 @@ _Software engineer living in Oslo_<br>
 [Email](mailto:perantoinecarlsen@gmail.com) / [LinkedIn](https://www.linkedin.com/in/per-carlsen/) / [GitHub](https://github.com/percarlsen/)
 
 
-## Experience
+## 👨🏼‍💻 Professional Experience
 
+**Software Engineer** at Oda, _September 2021 - Ongoing_<br>
 
-**Research Scientist** at Telenor Group<br>
-_August 2020 - September 2021_
+Full stack engineer in a product team creating software for the fulfillment centers. Taking part in every phase of the development from the prioritization phase to designing, developing, releasing and maintaining our product.
+
+- Key role in a complete re-build of the core inventory database models and business logic.
+- Responsibility of the planning, development and execution of importing existing inventory stock of three fulfillment centers when merging with Swedish company _Mathem_ in March 2024.
+database models with its business logic and user-interfaces.
+- Technologies: Python, Django, Docker, PostgreSQL, React, GraphQL, Git
+<br><br>
+
+**Research Scientist** at Telenor Group, _August 2020 - September 2021_<br>
 Working on research projects for Telenor's business units in the Nordics and Asia, with main focus on Green Radio - a collection of research projects aiming at reducing Telenor's CO2 footprint.
 
 - End-to-end responsibility for analyzing data, developing, and delivering Green Radio for Telenor Myanmar, and assisting with the same initiative in Telenor Pakistan and Grameenphone.
@@ -21,9 +29,7 @@ Working on research projects for Telenor's business units in the Nordics and Asi
 <br><br>
 
 
-**Trainee** at Telenor Norway<br>
-_August 2019 - August 2020_
-
+**Trainee** at Telenor Norway, _August 2019 - August 2020_<br>
 One-year trainee position working in three Telenor units; Norway IT,
 Myanmar Technology, and Group Research.
 
@@ -47,12 +53,10 @@ Active and rewarding job as a bicycle courier in the streets of Oslo.
 <br><br>
 
 
-## Education
+## 📖 Education
 
 
-**MSc in Nanoelectronics and Robotics** at the University of Oslo / UC San Diego<br>
-_August 2017 - June 2019_
-
+**MSc in Nanoelectronics and Robotics** at the University of Oslo / UC San Diego, _August 2017 - June 2019_<br>
 - Specialization in machine learning and deep learning for image analysis, in addition to studying natural language processing and search engine technologies.
 - Thesis (grade: A): Real-Time Person Re-Identification for Mobile Robots to Improve Human-Robot Interaction.
 - One year exchange stay at the Healthcare Robotics Lab at the University of California, San Diego campus.
@@ -60,21 +64,17 @@ _August 2017 - June 2019_
 <br><br>
 
 
-**BSc in Nanoelectronics and Robotics** at the University of Oslo / Griffith University<br>
-_August 2014 – June 2017_
-
+**BSc in Nanoelectronics and Robotics** at the University of Oslo / Griffith University, _August 2014 – June 2017_<br>
 - Courses within a broad range of topics within mathematics, electronics, robotics and programming.
 - Six month exchange stay at Griffith University, Queensland, Australia.
 - Technologies: Java, Python, C, Assembler, VHDL, ROS, HTML, CSS, PHP, MATLAB, Linux, Unity, C++.
 <br><br>
 
 
-## Projects
+## 🛠️ Projects
 
-**Co-founder & co-owner** at Smeig<br>
-_December 2018 - April 2024_
+**Co-founder & co-owner** at Smeig, _December 2018 - April 2024_<br>
 Running a clothing brand as a part-time project along with three friends.
-
 - Responsibility for developing and maintaining the website and implementing an integration between our IMS and the accounting system Tripletex.
 - Social media content creation on [Instagram](https://www.instagram.com/smeig) and [Facebook](https://www.facebook.com/smeig.co), and for creating and managing digital marketing campaigns.
 - Took part in the daily operations, economics, logistics, and the clothing design process.

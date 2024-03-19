@@ -1,3 +1,8 @@
 ## Per Carlsen
 
-This is my cv
+
+<style>
+  .header {
+    display: none;
+  }
+</style>

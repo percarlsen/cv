@@ -86,7 +86,7 @@ Specialization in machine learning and deep learning for image analysis, in addi
 ## 🏆 Accomplishments
 **Won first place** at the Smart Mobility Hackathon, _September 2020_<br>
 
-Developed RenTur, a travel planner that considered crowdedness when suggesting trips to facilitate traveling _"Covid-free from A to B"_. Norwegian newspaper _Dagens Næringsliv_ wrote an article about the app ([link](https://www.dn.no/staticprojects/annonsorinnhold/entur/pa-bare-24-timer-fant-de-opp-en-helt-ny-losning-for-a-unnga-fulle-kollektivreiser/)). The app was later presented for the Norwegian Digitalization Agency.
+Developed RenTur, a travel planner that considered crowdedness when suggesting trips to facilitate traveling _"Covid-free from A to B"_. Norwegian newspaper _Dagens Næringsliv_ wrote an article about our solution ([link](https://www.dn.no/staticprojects/annonsorinnhold/entur/pa-bare-24-timer-fant-de-opp-en-helt-ny-losning-for-a-unnga-fulle-kollektivreiser/)). The work was later presented for the Norwegian Digitalization Agency.
 <br><br>
 
 

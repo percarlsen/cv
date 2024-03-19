@@ -2,4 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-.site-header {display: none;}
+.site-header {
+    display: none;
+}
+.page-heading {
+    display: none;
+}
+

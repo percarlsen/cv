@@ -19,6 +19,7 @@ database models with its business logic and user-interfaces.
 <br><br>
 
 **Research Scientist** at Telenor Group, _August 2020 - September 2021_<br>
+
 Working on research projects for Telenor's business units in the Nordics and Asia, with main focus on Green Radio - a collection of research projects aiming at reducing Telenor's CO2 footprint.
 
 - End-to-end responsibility for analyzing data, developing, and delivering Green Radio for Telenor Myanmar, and assisting with the same initiative in Telenor Pakistan and Grameenphone.
@@ -30,6 +31,7 @@ Working on research projects for Telenor's business units in the Nordics and Asi
 
 
 **Trainee** at Telenor Norway, _August 2019 - August 2020_<br>
+
 One-year trainee position working in three Telenor units; Norway IT,
 Myanmar Technology, and Group Research.
 
@@ -41,6 +43,7 @@ Myanmar Technology, and Group Research.
 <br><br>
 
 **Teaching Assistant** at the University of Oslo<br>
+
 _August 2017 - December 2017_
 Held weekly classroom sessions and corrected assignments for a group of around 50 students in the course _Biologically Inspired Computing_. The main topics of the course were classification, search, and optimization.
 
@@ -48,7 +51,8 @@ Held weekly classroom sessions and corrected assignments for a group of around 5
 - Technologies: Python, Linux
 <br><br>
 
-**Bike Courier** at Foodora _(August 2016 = June 2018)_
+**Bike Courier** at Foodora, _August 2016 - June 2018_<br>
+
 Active and rewarding job as a bicycle courier in the streets of Oslo.
 <br><br>
 
@@ -57,6 +61,7 @@ Active and rewarding job as a bicycle courier in the streets of Oslo.
 
 
 **MSc in Nanoelectronics and Robotics** at the University of Oslo / UC San Diego, _August 2017 - June 2019_<br>
+
 - Specialization in machine learning and deep learning for image analysis, in addition to studying natural language processing and search engine technologies.
 - Thesis (grade: A): Real-Time Person Re-Identification for Mobile Robots to Improve Human-Robot Interaction.
 - One year exchange stay at the Healthcare Robotics Lab at the University of California, San Diego campus.
@@ -65,6 +70,7 @@ Active and rewarding job as a bicycle courier in the streets of Oslo.
 
 
 **BSc in Nanoelectronics and Robotics** at the University of Oslo / Griffith University, _August 2014 – June 2017_<br>
+
 - Courses within a broad range of topics within mathematics, electronics, robotics and programming.
 - Six month exchange stay at Griffith University, Queensland, Australia.
 - Technologies: Java, Python, C, Assembler, VHDL, ROS, HTML, CSS, PHP, MATLAB, Linux, Unity, C++.
@@ -74,6 +80,7 @@ Active and rewarding job as a bicycle courier in the streets of Oslo.
 ## 🛠️ Projects
 
 **Co-founder & co-owner** at Smeig, _December 2018 - April 2024_<br>
+
 Running a clothing brand as a part-time project along with three friends.
 - Responsibility for developing and maintaining the website and implementing an integration between our IMS and the accounting system Tripletex.
 - Social media content creation on [Instagram](https://www.instagram.com/smeig) and [Facebook](https://www.facebook.com/smeig.co), and for creating and managing digital marketing campaigns.

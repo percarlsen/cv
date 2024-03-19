@@ -41,6 +41,16 @@ One-year trainee position working in three Telenor units; Norway IT, Myanmar Tec
 <br><br>
 
 
+**Co-founder & co-owner** at Smeig, _December 2018 - April 2024_<br>
+
+Running a clothing brand as a part-time project along with three friends.
+- Responsibility for developing and maintaining the website and implementing an integration between our IMS and the accounting system Tripletex.
+- Social media content creation for [Instagram](https://www.instagram.com/smeig) and [Facebook](https://www.facebook.com/smeig.co), and for creating and managing digital marketing campaigns.
+- Took part in the daily operations, economics, logistics, and the clothing design process.
+- **Technologies**: Shopify, Liquid, HTML, CSS, JavaScript.
+<br><br>
+
+
 **Teaching Assistant** at the University of Oslo, _August 2017 - December 2017_<br>
 
 Held weekly classroom sessions and corrected assignments for a group of around 50 students in the course _Biologically Inspired Computing_. The main topics of the course were classification, search, and optimization.
@@ -70,18 +80,6 @@ Specialization in machine learning and deep learning for image analysis, in addi
 
 - Courses within a broad range of topics within mathematics, electronics, robotics and programming.
 - **Technologies**: Java, Python, C, Assembler, VHDL, ROS, HTML, CSS, PHP, MATLAB, Linux, Unity, C++.
-<br><br>
-
-
-## 🛠️ Projects
-
-**Co-founder & co-owner** at Smeig, _December 2018 - April 2024_<br>
-
-Running a clothing brand as a part-time project along with three friends.
-- Responsibility for developing and maintaining the website and implementing an integration between our IMS and the accounting system Tripletex.
-- Social media content creation for [Instagram](https://www.instagram.com/smeig) and [Facebook](https://www.facebook.com/smeig.co), and for creating and managing digital marketing campaigns.
-- Took part in the daily operations, economics, logistics, and the clothing design process.
-- **Technologies**: Shopify, Liquid, HTML, CSS, JavaScript.
 <br><br>
 
 

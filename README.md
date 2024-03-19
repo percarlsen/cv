@@ -12,9 +12,9 @@ _Software engineer living in Oslo_<br>
 
 Full stack engineer in a product team creating software for the fulfillment centers. Taking part in every phase of the development from the prioritization phase to designing, developing, releasing and maintaining our product.
 
-- Key role in a complete re-build of the core inventory database models and business logic.
 - Responsibility of the planning, development and execution of importing existing inventory stock of three fulfillment centers when merging with Swedish company _Mathem_ in March 2024.
 database models with its business logic and user-interfaces.
+- Key role in a complete re-build of the core inventory database models and business logic.
 - Technologies: Python, Django, Docker, PostgreSQL, React, GraphQL, Git
 <br><br>
 
@@ -87,3 +87,19 @@ Running a clothing brand as a part-time project along with three friends.
 - Took part in the daily operations, economics, logistics, and the clothing design process.
 - Technologies: Shopify, Liquid, HTML, CSS, JavaScript
 
+
+## 🏆 Accomplishments
+**Won first place** at the Smart Mobility Hackathon, _September 2020_<br>
+
+Developed RenTur, a travel planner that considered crowdedness when suggesting trips to facilitate traveling _"Covid-free from A to B"_. Norwegian newspaper _Dagens Næringsliv_ wrote an article about the app ([link](https://www.dn.no/staticprojects/annonsorinnhold/entur/pa-bare-24-timer-fant-de-opp-en-helt-ny-losning-for-a-unnga-fulle-kollektivreiser/)). The app was later presented for the Norwegian Digitalization Agency.
+<br><br>
+
+**Most efficient Foodora courier of 2018**<br>
+
+Voted the most efficient Foodora bike courier.
+
+## 🌍 Languages
+- Norwegian: native speaker
+- French: native speaker
+- English: fluent
+- Spanish: limited working proficiency

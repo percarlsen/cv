@@ -1,8 +1,9 @@
 theme: minima
 
-title: Test title
+# title: Test title
 author:
-  name: Per
-  email: perantoinecarlsen@gmail.com
+  name: Per Antoine Carlsen
+  email: "perantoinecarlsen@gmail.com"
+
 description:
   Test description

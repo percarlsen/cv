@@ -53,7 +53,7 @@ Running a clothing brand as a part-time project with three friends.
 
 - Develop custom features for the Shopify website, for example a product carousel.
 - Create an integration between Shopify and the accounting system Tripletex (GitHub repo [link](https://github.com/percarlsen/shopify-db)) to avoid having to manually register sales every month.
-- Social media content creation for [Instagram](https://www.instagram.com/smeig) and [Facebook](https://www.facebook.com/smeig.co), and managing digital marketing campaigns.
+- Social media content creation for Instagram ([link](https://www.instagram.com/smeig)) and Facebook ([link](https://www.facebook.com/smeig.co)), and managing digital marketing campaigns.
 - Take part in the daily operations, economics, logistics, and the clothing design process.
 - **Technologies**: Shopify, Liquid, HTML, CSS, JavaScript, Python.
 <br><br>

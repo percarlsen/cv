@@ -12,7 +12,7 @@ Oda Group Services<br/>
 **Senior Software Engineer (March 2024 - Ongoing)**<br>
 **Software Engineer (September 2021 - March 2024)**<br>
 
-Full stack engineer in a product team building Oda's warehouse management system (WMS). Taking part in every phase of the development from prioritizing to designing, developing, testing, releasing and maintaining the product.
+Full stack engineer in a product team building Oda's warehouse management system. Taking part in every phase of the development from prioritizing to designing, developing, testing, releasing and maintaining the product.
 
 - Responsibility for the planning, development and execution of transferring inventory valued at ~20 million SEK to Oda's WMS during the merger with Swedish _Mathem_.
 - Key role in a complete re-build of the core inventory database models and business logic, including migrating clients while keeping both systems in sync.
@@ -26,8 +26,8 @@ Telenor Group<br/>
 
 Working on research projects for Telenor's business units in the Nordics and in Asia.
 
-- Responsibility for analyzing data, developing, and delivering Green Radio (a collection of research projects aiming at reducing Telenor's CO2 footprint) at Telenor Myanmar.
-- Assisting with the Green Radio initiative in Telenor Pakistan and Grameenphone (Bangladesh).
+- Responsibility for analyzing data, developing, and delivering Green Radio (a collection of research projects aiming at reducing Telenor's CO2 footprint) for Telenor Myanmar.
+- Assisting with Green Radio in Telenor Pakistan and Grameenphone (Bangladesh).
 - Develop a front-end demo application for Telenor's state-of-the-art Norwegian speech-to-text model.
 - Board member of Telenor Young Professionals.
 - **Technologies**: Python, Docker, Git, PostgreSQL, Vue.js, JavaScript, BigQuery.
@@ -37,24 +37,24 @@ Working on research projects for Telenor's business units in the Nordics and in 
 Telenor Norway<br/>
 **Trainee (August 2019 - August 2020)**<br>
 
-One-year trainee position working in three Telenor units; Norway IT, Myanmar Technology, and Group Research.
+Trainee program with rotation in three units; Norway IT, Myanmar Technology, and Group Research.
 
 - Analyze mobility data during the first months of Covid-19 and delivering reports to the Health Authorities (FHI), some of which were reported to the Minister of Health and Care Services at the time, Bent Høie.
 - Develop big data network analytics tool for Telenor’s radio engineers.
-- Project manager through the first phase of a cloud modernization project.
+- Learning about project management through the first phase of a cloud modernization project.
 - **Technologies**: SAS, Hadoop, SQL, Python.
 <br><br>
 
 
-Smeig</br>
+Smeig<br/>
 **Co-founder & co-owner (December 2018 - April 2024)**<br>
 
-Running a clothing brand as a part-time project along with three friends.
+Running a clothing brand as a part-time project with three friends.
 
-- Develop custom features in the Shopify website, for example a product carousel.
+- Develop custom features for the Shopify website, for example a product carousel.
 - Create an integration between Shopify and the accounting system Tripletex (GitHub repo [link](https://github.com/percarlsen/shopify-db)) to avoid having to manually register sales every month.
 - Social media content creation for [Instagram](https://www.instagram.com/smeig) and [Facebook](https://www.facebook.com/smeig.co), and managing digital marketing campaigns.
-- Take part in the daily operations, economics, logistics, the clothing design process.
+- Take part in the daily operations, economics, logistics, and the clothing design process.
 - **Technologies**: Shopify, Liquid, HTML, CSS, JavaScript, Python.
 <br><br>
 
@@ -62,7 +62,7 @@ Running a clothing brand as a part-time project along with three friends.
 University of Oslo<br/>
 **Teaching Assistant (August 2017 - December 2017)**<br>
 
-Assisting a group of ~50 students in the course _Biologically Inspired Computing_, covering topics such as classification, search, and optimization.
+Assist a group of ~50 students in the course _Biologically Inspired Computing_, covering topics such as classification, search, and optimization.
 <br><br>
 
 

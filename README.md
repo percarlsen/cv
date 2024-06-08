@@ -3,7 +3,9 @@
 _Software engineer living in Oslo_<br>
 
 
-[Email](mailto:perantoinecarlsen@gmail.com) / [LinkedIn](https://www.linkedin.com/in/per-carlsen/) / [GitHub](https://github.com/percarlsen/)
+Email: perantoinecarlsen@gmail.com<br/>
+Phone: +47 91756355<br/>
+[LinkedIn](https://www.linkedin.com/in/per-carlsen/) | [GitHub](https://github.com/percarlsen/)
 
 
 ## 👨🏼‍💻 Professional Experience
